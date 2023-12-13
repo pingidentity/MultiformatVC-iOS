@@ -4,7 +4,7 @@
 
 Swift package for creating Verifiable Credentials (VCs) in multiple formats
 
-- SD JWT "**Selective Disclosure for JWTs (SD-JWT)**" using the specification defined at https://www.ietf.org/archive/id/draft-terbu-oauth-sd-jwt-vc-00.html
+- SD JWT "**Selective Disclosure for JWTs (SD-JWT)**" using the specification defined at https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/
 - VC JWT "**Verifiable Credentials as JWTs**" using the format defined at JWT VC Presentation Profile https://identity.foundation/jwt-vc-presentation-profile/
 - ISO 23220 mDoc format (coming soon)
 
